@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav>
-        <h1> Job Board </h1>
+        <h1> " Job Board " </h1>
     
     </nav>
   );
