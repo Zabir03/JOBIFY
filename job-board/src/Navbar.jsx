@@ -1,9 +1,11 @@
 import React from 'react'
-
+import {FaHome} from 'react-icons/fa'
 
 const Navbar = () => {
   return (
-    <div>This is the Navbar of Job-board</div>
+    <div className="btn-container">
+  <ThemeToggle />
+</div>
   )
 }
 
